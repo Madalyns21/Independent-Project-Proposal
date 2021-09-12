@@ -11,6 +11,7 @@
         <li>To make a user friendly site for all audience to use and browse through</li>
         <li>To display myself and to show off the work I have created</li>
         <li>To have a portfolio where employers can look at my work to potentially hire me</li>
+     <li>Testing out a commit</li>
     
    
     
